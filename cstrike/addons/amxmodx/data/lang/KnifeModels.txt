@@ -1,0 +1,15 @@
+[en] -- RedSMURF 
+KM_CHAT_TAG = ^4[Knife Models]^1
+KM_CHAT_SELECTED = You have selected the knife ^4%s^1.
+KM_CHAT_ONLY_DEAD = You can't change your knife while you're alive.
+KM_CHAT_INVALID_KNIFE = Invalid knife index, Valid knives range from 0 to %i. 
+KM_CHAT_NO_ACCESS = You have no access to that knife. 
+KM_CHAT_NO_LONGER_ACCESS = You're no longer have access to this knife.
+
+KM_MENU_TITLE = \r[\yKnife Models\r]
+KM_MENU_TITLE_PAGE = \r-- \yPage:\r
+KM_MENU_SELECTED = \y~ \rSELECTED \y~
+KM_MENU_VIP = \r[VIP]
+
+
+
